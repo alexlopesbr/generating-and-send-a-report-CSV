@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
